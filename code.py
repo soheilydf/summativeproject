@@ -1,5 +1,5 @@
 print("i have changed the code again *2   ") 
-def q1_function(intlist,strlist):                
+def function(intlist,strlist):                
         if (len(intlist) == len(strlist)):
             newlist = []
             count = 0
